@@ -18,3 +18,13 @@ E:\UNIVERSITY_OF_GREENWICH\1618 - PROGRAMMING\Assignment 2\ManageStudents\Manage
 E:\UNIVERSITY_OF_GREENWICH\1618 - PROGRAMMING\Assignment 2\ManageStudents\ManageStudents\obj\Debug\ManageStudents.csproj.CoreCompileInputs.cache
 E:\UNIVERSITY_OF_GREENWICH\1618 - PROGRAMMING\Assignment 2\ManageStudents\ManageStudents\obj\Debug\ManageStudents.exe
 E:\UNIVERSITY_OF_GREENWICH\1618 - PROGRAMMING\Assignment 2\ManageStudents\ManageStudents\obj\Debug\ManageStudents.pdb
+E:\GitHub\ManageStudents\ManageStudents\ManageStudents\bin\Debug\ManageStudents.exe.config
+E:\GitHub\ManageStudents\ManageStudents\ManageStudents\bin\Debug\ManageStudents.exe
+E:\GitHub\ManageStudents\ManageStudents\ManageStudents\bin\Debug\ManageStudents.pdb
+E:\GitHub\ManageStudents\ManageStudents\ManageStudents\obj\Debug\ManageStudents.csproj.AssemblyReference.cache
+E:\GitHub\ManageStudents\ManageStudents\ManageStudents\obj\Debug\ManageStudents.ManageStudents.resources
+E:\GitHub\ManageStudents\ManageStudents\ManageStudents\obj\Debug\ManageStudents.Properties.Resources.resources
+E:\GitHub\ManageStudents\ManageStudents\ManageStudents\obj\Debug\ManageStudents.csproj.GenerateResource.cache
+E:\GitHub\ManageStudents\ManageStudents\ManageStudents\obj\Debug\ManageStudents.csproj.CoreCompileInputs.cache
+E:\GitHub\ManageStudents\ManageStudents\ManageStudents\obj\Debug\ManageStudents.exe
+E:\GitHub\ManageStudents\ManageStudents\ManageStudents\obj\Debug\ManageStudents.pdb
